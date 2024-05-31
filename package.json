@@ -1,0 +1,16 @@
+{
+  "name": "equacaosegundograu_nodejs_vercel",
+  "version": "1.0.0",
+  "description": "Equação do segundo grau em Node.js no Vercel",
+  "main": ".\\src\\index",
+  "scripts": {
+    "start": "node .\\src\\index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
