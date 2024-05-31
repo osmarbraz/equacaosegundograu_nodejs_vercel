@@ -27,8 +27,7 @@ router.get('/', (request, response)=>{
 /**
  * Serviço de cálculo das raízes.
  *
- * curl 
- * http://localhost:8000/raizes/1/3/-4
+ * curl http://localhost:8000/raizes/1/3/-4
  * Resultado x1 = 1 e x2 = -4
  */
 router.get('/raizes/:a/:b/:c', raizes);
