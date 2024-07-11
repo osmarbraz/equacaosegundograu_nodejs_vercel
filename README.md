@@ -9,6 +9,7 @@
 - Classe equação executa o cálculo das raízes da equação do segundo grau utilizando a fórmula de Bháskara.
 
 ## Dependências
+
 - express,
 - cors.
 
@@ -34,6 +35,7 @@
     https://equacaosegundograu-nodejs-vercel.vercel.app/
 
 ## Serviços
+
     Substitua localhost:8080 pelo endereço do servidor.
 
  - Serviço da rota inicial VIA GET.
