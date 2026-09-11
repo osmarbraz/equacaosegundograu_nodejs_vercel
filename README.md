@@ -10,8 +10,8 @@
 
 ## Dependências
 
-- express,
-- cors.
+- cors,
+- express.
 
 ## Execução
 
